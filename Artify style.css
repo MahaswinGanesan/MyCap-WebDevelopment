@@ -1,0 +1,78 @@
+body{
+	background-image: url(https://images.unsplash.com/photo-1503435824048-a799a3a84bf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFpbiUyMG5hdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60);
+}
+.heading{
+	font-family: Times new roman;
+	padding: 20px;
+	text-align: left;
+	background-color: royalblue ;
+	color: white;
+	font-size:35px;
+	margin: 2px;
+}
+.navbar{
+	list-style: none;
+	padding:11px;
+	background-color: blue;
+	word-spacing: 2cm;
+	margin: 2px;
+}
+.navbar-tools{
+	text-decoration: none;
+	color: white;
+}
+form{
+	background-image:url(https://media.istockphoto.com/id/1218118996/vector/abstract-background-of-smooth-curves.jpg?s=612x612&w=0&k=20&c=aZ6XehdtyGHYpxEiMP19PBpzqbGFm_spr7WCsoOH3K4=);
+	background-color: whitesmoke;
+	font-family: Times new roman;
+	padding: 100px;
+	width: 200px;
+	text-align: left;
+	margin: 400px;
+	margin-top: 40px;
+	margin-left: 50%;
+	border-radius: 6px;
+}
+.signup{
+	text-decoration: none;
+	text-align: center;
+	padding: 15px;
+	background-color: darkblue;
+	color: whitesmoke;
+	margin-left: auto;
+	margin-right: auto;
+}
+.sidebar{
+	float: left;
+	width: 20%;
+	margin: 2px;
+	background-color: steelblue;
+	padding-right: 25px;
+	padding-bottom: 330px;
+	text-align: center;
+}
+.sidebar-tools{
+	font-family: calibri-bold;
+	font-size: 20px;
+	text-decoration:none;
+	color: black;
+
+}
+.types{
+	font-size: 20px;
+	color: white;
+	font-family: calibri;
+	word-spacing: 5px;	
+}
+footer{
+	padding: 15px;
+	text-align: center;
+	background-color: royalblue;
+	color: white;
+}
+.foot{
+	word-spacing: 1cm;
+}
+li{
+	display:inline;
+}
